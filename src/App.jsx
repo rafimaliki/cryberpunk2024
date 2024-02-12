@@ -149,7 +149,7 @@ function App() {
               <div>
                 <a
                   className="hover:text-cyan-300 hover:underline"
-                  href=""
+                  href="https://github.com/rafimaliki/cryberpunk2024"
                   target="_blank"
                 >
                   GitHub
