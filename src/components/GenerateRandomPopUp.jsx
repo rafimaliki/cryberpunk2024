@@ -164,13 +164,16 @@ const GenerateRandomPopUp = ({
             </div>
           </div>
           <div className="flex justify-between w-full border border-b-0 border-r-0 border-l-0 border-[#D0ED57]">
-            <div className="flex">
+            <div className="flex items-center">
               {/* <div className="flex items-center text-red-400 px-[1rem]">
                 Error!
               </div>
               <div className="flex items-center text-green-500 px-[1rem]">
                 Success!
               </div> */}
+              <div className="pl-[2rem] text-center text-sm text-gray-200">
+                Press enter to write on next line
+              </div>
             </div>
             <div>
               <button
